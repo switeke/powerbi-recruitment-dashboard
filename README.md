@@ -12,16 +12,6 @@ The report uses **three ZoomCharts Drill Down PRO visuals** (Donut, Scatter and 
 
 ---
 
-## Screenshots
-
-| Overview | Channels and funnel | Quality of hire |
-|---|---|---|
-| ![Overview](screenshots/page1_overview.png) | ![Channels and funnel](screenshots/page2_channels_funnel.png) | ![Quality of hire](screenshots/page3_quality.png) |
-
-> Add your own screenshots to the `screenshots/` folder using the file names above.
-
----
-
 ## Key findings
 
 Across 2024 to September 2026 the business made **4,048 hires** from **141,271 applicants** in **609 campaigns**, for a total spend of **€9.58M** (about **€2,367 per hire**, **55.5 days** to fill).
